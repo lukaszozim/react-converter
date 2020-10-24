@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import {Button} from '../Button'
 
+//usunięcie state
 /*state = {
     amount:0,
     currFrom:'PLN',
